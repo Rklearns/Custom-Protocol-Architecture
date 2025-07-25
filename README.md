@@ -151,10 +151,48 @@ Concepts demonstrated from:
 
 ---
 
-**Status**: Educational/Research Ready  
+**Status**: Educational study
 **Performance**: 5.51 MB/s peak throughput  
 **Reliability**: 100% success rate (localhost testing)  
 **Last Updated**: July 2025
+
+### Steps to Contribute
+
+1. **Fork the repository**  
+   Click the `Fork` button at the top-right of this page to create your own copy.
+
+2. **Clone your fork locally**
+
+```bash
+git clone https://github.com/yourusername/reliable-udp-transfer.git
+cd reliable-udp-transfer
+```
+3. **Create a new branch for your feature or fix
+```bash
+git checkout -b feature/your-feature-name
+```
+4. **Edit files, add new code, or fix bugs.
+
+5.Commit Changes
+```bash
+git add .
+git commit -m "Add: meaningful commit message"
+```
+
+6.**Push to your fork
+```bash
+git push origin feature/your-feature-name
+```
+
+7.** Proceed with pull request 
+
+## 📚 Academic Citation
+
+**Custom Protocol Architecture: Reliable UDP Implementation**  
+**Repository:** [https://github.com/yourusername/reliable-udp-transfer](https://github.com/yourusername/reliable-udp-transfer)  
+**Performance:** 5.51 MB/s peak throughput, 7,372% improvement over stop-and-wait  
+**Date:** July 2025
+
 
 
 
