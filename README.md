@@ -189,7 +189,7 @@ git push origin feature/your-feature-name
 ## 📚 Academic Citation
 
 **Custom Protocol Architecture: Reliable UDP Implementation**  
-**Repository:** [https://github.com/yourusername/reliable-udp-transfer](https://github.com/Rklearns/reliable-udp-transfer)  
+**Repository:** [https://github.com/Rklearns/reliable-udp-transfer](https://github.com/Rklearns/reliable-udp-transfer)  
 **Performance:** 5.51 MB/s peak throughput, 7,372% improvement over stop-and-wait  
 **Date:** July 2025
 
