@@ -158,19 +158,21 @@ Concepts demonstrated from:
 
 ### Steps to Contribute
 
-1. Fork the repository**  
+1. Fork the repository
    Click the `Fork` button at the top-right of this page to create your own copy.
 
-2. Clone your fork locally**
+2. Clone your fork locally
 
 ```bash
 git clone https://github.com/yourusername/reliable-udp-transfer.git
 cd reliable-udp-transfer
 ```
+
 3. Create a new branch for your feature or fix
 ```bash
 git checkout -b feature/your-feature-name
 ```
+
 4. Edit files, add new code, or fix bugs.
 
 5. Commit Changes
