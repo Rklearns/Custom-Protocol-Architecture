@@ -26,6 +26,15 @@ Custom implementation of a reliable transport layer protocol demonstrating advan
 | 10MB | 0.07 MB/s | 3.85 MB/s | +5,083% |
 | 20MB | 0.07 MB/s | 5.51 MB/s | +7,372% |
 
+📊 **[Complete Performance Report](https://github.com/Rklearns/Custom-Protocol-Architecture/blob/main/performance_report_20250725_030019.txt)**
+
+This report contains:
+- Detailed methodology and testing environment specifications
+- Complete performance metrics for all file sizes and window configurations
+- Statistical analysis of sliding window effectiveness
+- Technical implementation validation results
+- Cross-configuration performance comparisons
+
 ## Quick Start
 
 ### Installation
