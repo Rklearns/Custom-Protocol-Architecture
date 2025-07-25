@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test files
+*.tmp
+test_*.txt
+received_*.txt
+performance_report_*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+

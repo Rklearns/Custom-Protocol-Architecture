@@ -1,0 +1,28 @@
+RELIABLE UDP PERFORMANCE TEST REPORT
+==================================================
+Generated: 2025-07-25 02:42:08
+
+PERFORMANCE RESULTS:
+--------------------
+
+3MB File Performance:
+Window   Protocol        Duration   Throughput   Improvement 
+------------------------------------------------------------
+1        Stop-and-Wait   41.14      0.07          +0.0%
+5        Sliding Window  1.97       1.52         +1984.8%
+10       Sliding Window  1.97       1.52         +1988.9%
+20       Sliding Window  1.97       1.52         +1984.0%
+
+10MB File Performance:
+Window   Protocol        Duration   Throughput   Improvement 
+------------------------------------------------------------
+1        Stop-and-Wait   132.96     0.08          +0.0%
+10       Sliding Window  2.69       3.71         +4838.5%
+20       Sliding Window  2.70       3.71         +4827.6%
+50       Sliding Window  2.60       3.85         +5017.2%
+
+SUMMARY:
+Best Performance: 3.85 MB/s
+Average Performance: 2.00 MB/s
+Tests Completed: 8
+Success Rate: 100%
