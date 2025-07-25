@@ -184,7 +184,7 @@ git commit -m "Add: meaningful commit message"
 git push origin feature/your-feature-name
 ```
 
-7. **Proceed with pull request 
+7. Proceed with pull request 
 
 ## 📚 Academic Citation
 
