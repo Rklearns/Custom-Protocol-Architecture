@@ -26,7 +26,7 @@ Custom implementation of a reliable transport layer protocol demonstrating advan
 | 10MB | 0.07 MB/s | 3.85 MB/s | +5,083% |
 | 20MB | 0.07 MB/s | 5.51 MB/s | +7,372% |
 
-📊 **[Complete Performance Report](https://github.com/Rklearns/Custom-Protocol-Architecture/blob/main/performance_report_20250725_030019.txt)**
+ **[Complete Performance Report](https://github.com/Rklearns/Custom-Protocol-Architecture/blob/main/performance_report_20250725_030019.txt)**
 
 This report contains:
 - Detailed methodology and testing environment specifications
@@ -73,7 +73,7 @@ You should see output like:
 [Receiver] Receiving file: received_output.txt
 ```
 
-#### 🖥️ Terminal 2 (Sender)
+####  Terminal 2 (Sender)
 
 In another terminal, start the sender:
 
@@ -110,7 +110,7 @@ DATA_SIZE = 1004      # Payload size
 
 ## Important Limitations
 
-**⚠️ Testing Environment**: This protocol was developed and tested exclusively on **localhost (127.0.0.1)** on a single macOS system with optimal conditions (0% packet loss, <1ms latency).
+** Testing Environment**: This protocol was developed and tested exclusively on **localhost (127.0.0.1)** on a single macOS system with optimal conditions (0% packet loss, <1ms latency).
 
 **Cross-System Deployment**: 
 - NOT extensively tested between different computers
@@ -188,7 +188,7 @@ git push origin feature/your-feature-name
 
 7. Proceed with pull request 
 
-## 📚 Academic Citation
+##  Academic Citation
 
 **Custom Protocol Architecture: Reliable UDP Implementation**  
 **Repository:** [https://github.com/Rklearns/reliable-udp-transfer](https://github.com/Rklearns/reliable-udp-transfer)  
