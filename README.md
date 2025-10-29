@@ -45,9 +45,9 @@ cd reliable-udp-transfer
 python3 -m venv venv
 source venv/bin/activate
 ```
-## 🧪 Basic Usage
+##  Basic Usage
 
-### ✅ Option 1: Automated Testing (Recommended)
+### Option 1: Automated Testing (Recommended)
 
 Run the complete test with both sender and receiver auto-launched:
 
@@ -55,11 +55,11 @@ Run the complete test with both sender and receiver auto-launched:
 python examples/fully_automated_test.py
 ```
 
-### ✅ Option 2: Manual File Transfer
+###  Option 2: Manual File Transfer
 
 For manual testing, open **two separate terminals**.
 
-#### 🖥️ Terminal 1 (Receiver)
+####  Terminal 1 (Receiver)
 
 Start the receiver first:
 
@@ -122,9 +122,9 @@ DATA_SIZE = 1004      # Payload size
 
 | Platform | Status | Notes |
 |----------|--------|-------|
-| macOS | ✅ Fully Tested | Primary development platform |
-| Linux | ⚠️ Expected | Standard Python/socket APIs |
-| Windows | ⚠️ Limited | May need minor modifications |
+| macOS | Fully Tested | Primary development platform |
+| Linux |  Expected | Standard Python/socket APIs |
+| Windows |  Limited | May need minor modifications |
 
 ## Academic Context
 
