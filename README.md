@@ -87,7 +87,7 @@ Expected output:
 [Sender] File transfer complete.
 ```
 
-### 🔍 What This Does
+###  What This Does
 
 - Receiver listens for incoming UDP packets.
 - Sender sends a test file over UDP.
